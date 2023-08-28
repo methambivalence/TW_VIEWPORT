@@ -1,7 +1,3 @@
-# TW_VIEWPORT
-
-Use the following method for fix how Tailwind CSS show websites on mobile devices.
-
 ## Usage
 
 Add to main .css file:
